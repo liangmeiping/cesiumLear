@@ -1,2 +1,2 @@
-# cesiumLear
-cesium lear write demo
+# cesiumLearn
+cesium learn write demo
